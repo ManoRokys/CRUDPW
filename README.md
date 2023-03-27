@@ -1,7 +1,7 @@
 # CRUD em html, php e bootstrap no padrão MVC.
 Sistema CRUD feito nas aulas de Programação WEB 3
 
-**CRUD**
+# **CRUD**
 
 CRUD é um acrônimo para Create (criar), Read (ler), Update (atualizar) e Delete (apagar). Esses termos descrevem as quatro operações básicas para criar e gerenciar elementos de dados persistentes, especialmente em bancos de dados relacionais e NoSQL.
 
@@ -9,7 +9,7 @@ CRUD é uma forma simplificada de interagir com os dados em um servidor, ganhand
 
 Para a execução desse CRUD é necessário que siga alguns passos:
 
-**Primeiros Passos:**
+# **Primeiros Passos:**
 
 Instale o XAMPP no site https://www.apachefriends.org/pt_br/download.html
 
@@ -29,7 +29,7 @@ e entre na pasta htdocs e cole a pasta do CRUD nela.
 
 ![image](https://user-images.githubusercontent.com/128431270/228081709-fe491de7-3770-4133-9166-c23441350cf7.png)
 
-**Execute o banco de dados:**
+# **Execute o banco de dados:**
 
 Use o MySQL Workbench, HeidiSQL ou o PHPMyAdmin para executar o banco de dados BancoEscola.sql (Lembre de ativar o XAMPP para executar esses programas).
 
@@ -38,7 +38,7 @@ No caso do MySQL Workbench, selecione todo o código e clique no icone do Raio q
 ![image](https://user-images.githubusercontent.com/128431270/228089842-651d553e-8df5-4d29-8adc-eacc4b39d631.png)
 
 
-**Como abrir:**
+# **Como abrir:**
 
 Ligue as opções Apache e MySQL no XAMPP
 
@@ -52,7 +52,7 @@ Clique na pasta revisão que foi instalada e pronto!
 
 ![image](https://user-images.githubusercontent.com/128431270/228083426-d00681f4-1a0c-4de3-83ae-07d344feb2dd.png)
 
-**Como usar o CRUD:**
+# **Como usar o CRUD:**
 
 Recomendo que começe cadastrando um novo usuario no Botão Cadastrar
 
