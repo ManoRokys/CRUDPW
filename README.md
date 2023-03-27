@@ -46,6 +46,7 @@ Clique na pasta revisão que foi instalada e pronto!
 Recomendo que começe cadastrando um novo usuario no Botão Cadastrar
 
 ![image](https://user-images.githubusercontent.com/128431270/228084046-cf6b1af2-9fac-49fd-b5b2-227f63bf320e.png)
+
 Insira as informações do usuario e clique no botão Cadastrar.
 
 Agora busque o usuário que você criou na ferramenta de busca e clique em ENTER
@@ -57,7 +58,7 @@ Caso esteja com dificuldade para encontrar o seu usuário, apenas digite % que m
 ![image](https://user-images.githubusercontent.com/128431270/228084869-a7e1f04e-a290-4b8a-ab9a-5c5a68c6f75f.png)
 
 Após encontrar seu usuário, você verá que temos duas opções ao lado de suas informações,
-o Excluir faz com que o usuário seja Deletado e o Atualizar permite que você altere as informações que você inseriu no seu usuário ultimamente.
+o Excluir faz com que o usuário seja deletado e o Editar permite que você altere as informações que você inseriu no seu usuário ultimamente.
 
 
 Isso é tudo que tem disponivel no meu CRUD, um CRUD simples feito apenas para treinamento e aprendizagem.
