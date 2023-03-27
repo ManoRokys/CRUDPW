@@ -9,6 +9,56 @@ CRUD é uma forma simplificada de interagir com os dados em um servidor, ganhand
 
 Para a execução desse CRUD é necessário que siga alguns passos:
 
-**Primeiro Passo:**
+**Primeiros Passos:**
 
-Instale o XAMPP 
+Instale o XAMPP no site https://www.apachefriends.org/pt_br/download.html
+
+![image](https://user-images.githubusercontent.com/128431270/228081007-bd01dcca-b9c8-4408-b487-1bed75274a6f.png)
+
+Após instalar o setup do XAMPP, pegue a pasta do CRUD e vá na pasta Disco Local C:
+
+![image](https://user-images.githubusercontent.com/128431270/228081380-39c59b25-b3ea-4429-9a87-c8f914693763.png)
+
+entre na pasta xampp
+
+![image](https://user-images.githubusercontent.com/128431270/228081518-4b84cc51-f045-4125-9c64-aa7434a771e8.png)
+
+e entre na pasta htdocs e cole a pasta do CRUD nela.
+
+![image](https://user-images.githubusercontent.com/128431270/228081709-fe491de7-3770-4133-9166-c23441350cf7.png)
+
+**Como abrir:**
+
+Ligue as opções Apache e MySQL no XAMPP
+
+![image](https://user-images.githubusercontent.com/128431270/228082074-9086b87e-51e9-4428-9b60-54d0366e2384.png)
+
+entre no site LocalHost pelo botão Admin da opção Apache do XAMPP e você estará nessa página
+
+![image](https://user-images.githubusercontent.com/128431270/228082531-dac49e56-656a-4ecc-b09b-82a12184d059.png)
+
+Clique na pasta revisão que foi instalada e pronto!
+
+![image](https://user-images.githubusercontent.com/128431270/228083426-d00681f4-1a0c-4de3-83ae-07d344feb2dd.png)
+
+**Como usar o CRUD:**
+
+Recomendo que começe cadastrando um novo usuario no Botão Cadastrar
+
+![image](https://user-images.githubusercontent.com/128431270/228084046-cf6b1af2-9fac-49fd-b5b2-227f63bf320e.png)
+Insira as informações do usuario e clique no botão Cadastrar.
+
+Agora busque o usuário que você criou na ferramenta de busca e clique em ENTER
+
+![image](https://user-images.githubusercontent.com/128431270/228084456-098978b4-3551-4435-a68b-14bf22384c39.png)
+
+Caso esteja com dificuldade para encontrar o seu usuário, apenas digite % que mostrará todos os usuários cadastrados.
+
+![image](https://user-images.githubusercontent.com/128431270/228084869-a7e1f04e-a290-4b8a-ab9a-5c5a68c6f75f.png)
+
+Após encontrar seu usuário, você verá que temos duas opções ao lado de suas informações,
+o Excluir faz com que o usuário seja Deletado e o Atualizar permite que você altere as informações que você inseriu no seu usuário ultimamente.
+
+
+Isso é tudo que tem disponivel no meu CRUD, um CRUD simples feito apenas para treinamento e aprendizagem.
+Obrigado por testar o meu CRUD!
