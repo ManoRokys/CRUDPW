@@ -14,6 +14,7 @@ Para a execução desse CRUD é necessário que siga alguns passos:
 Instale o XAMPP no site https://www.apachefriends.org/pt_br/download.html
 
 ![image](https://user-images.githubusercontent.com/128431270/228081007-bd01dcca-b9c8-4408-b487-1bed75274a6f.png)
+Caso esteja com dificuldade no setup do XAMPP, recomendo esse artigo que te ajudará a instalar corretamente: https://satellasoft.com/artigo/php/como-baixar-e-instalar-o-xampp-no-windows
 
 Após instalar o setup do XAMPP, pegue a pasta do CRUD e vá na pasta Disco Local C:
 
@@ -26,6 +27,11 @@ entre na pasta xampp
 e entre na pasta htdocs e cole a pasta do CRUD nela.
 
 ![image](https://user-images.githubusercontent.com/128431270/228081709-fe491de7-3770-4133-9166-c23441350cf7.png)
+
+**Execute o banco de dados:**
+
+Use o MySQL Workbench, HeidiSQL ou o PHPMyAdmin para executar o banco de dados BancoEscola.sql
+
 
 **Como abrir:**
 
